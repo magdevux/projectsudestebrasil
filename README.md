@@ -1,4 +1,4 @@
-## **README.md: Desvendando os Segredos dos Estados Sudestinos** 🇧🇷
+## **README.md: Desvendando os Segredos dos Estados Sudestinos** 🇧🇷 - Imersão Dev com Google Gemini!!! 
 
 ### **O que é essa bagaça?**
 
