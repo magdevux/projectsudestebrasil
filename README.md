@@ -23,13 +23,6 @@ Esse projeto te leva numa viagem pelos estados mais badalados do Brasil! ☀️ 
 3. **Abra no navegador:** Abra o arquivo `index.html` no seu navegador.
 4. **Divirta-se:** Comece a explorar os estados brasileiros!
 
-### **O que você pode fazer para melhorar?**
-
-* **Mais estados:** Quer adicionar mais estados? É só editar o arquivo `dados.js` e adicionar as informações.
-* **Mais detalhes:** Que tal incluir fotos, mapas ou vídeos para deixar tudo mais legal?
-* **Melhore a busca:** Experimente usar expressões regulares para fazer buscas mais precisas.
-* **Crie um design:** Solte a sua criatividade e deixe a página com a sua cara!
-
 **Contribuições são sempre bem-vindas!** 
 
 **Dúvidas?** Manda um alô! 
@@ -40,7 +33,3 @@ Esse projeto te leva numa viagem pelos estados mais badalados do Brasil! ☀️ 
 * **Detalhes técnicos:** Mantive as informações técnicas relevantes, como as tecnologias utilizadas e os passos para rodar a aplicação.
 * **Chamada para ação:** Incentivei a participação e contribuições para o projeto.
 * **Humor:** Adicionei um toque de humor para tornar o README mais divertido e fácil de ler.
-
-**Lembre-se:** A ideia é criar um README que seja claro, conciso e divertido, incentivando outros desenvolvedores a contribuírem para o projeto. 
-
-**Você gostaria que eu adaptasse o README para um tom mais formal ou técnico?**
